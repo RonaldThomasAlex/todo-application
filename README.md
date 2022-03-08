@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npx json-server --watch src/db.json`
 
-## Step 2: How to run application(choose ant port)
+## Step 2: How to run application(choose any port)
 
 ### `npm start`
 
